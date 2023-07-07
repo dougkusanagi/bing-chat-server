@@ -1,0 +1,25 @@
+{
+  author: 'bot',
+  id: '5c7062db-b0e3-4891-8658-f96c32763050',
+  conversationId: '51D|BingProdUnAuthenticatedUsers|92B984BD795F30344ADE797D93603C8DCC9889028E4E9D223F94EDC554F1B26D',
+  clientId: '1829581529941754',
+  conversationSignature: '3Memu1mAGLwNVyzEowx8YvS42nR1YqrJHp3q80USaZY=',
+  invocationId: '2',
+  text: "I'm sorry but I don't have that information. Could you please remind me what your last question was?",
+  detail: {
+    text: "I'm sorry but I don't have that information. Could you please remind me what your last question was?",
+    author: 'bot',
+    createdAt: '2023-07-07T18:32:47.1965706+00:00',
+    timestamp: '2023-07-07T18:32:47.1965706+00:00',
+    messageId: '2ec5f356-fcc4-4e92-ada6-fd030bab705d',
+    requestId: '64a24534-4061-4361-af8c-ea4e847e6463',
+    offense: 'None',
+    adaptiveCards: [ [Object] ],
+    sourceAttributions: [ [Object], [Object], [Object], [Object], [Object] ],
+    feedback: { tag: null, updatedOn: null, type: 'None' },
+    contentOrigin: 'DeepLeo',
+    privacy: null,
+    suggestedResponses: [ [Object], [Object], [Object] ]
+  },
+  conversationExpiryTime: '2023-07-08T00:32:49.3412441Z'
+}
